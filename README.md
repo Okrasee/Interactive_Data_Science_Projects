@@ -13,7 +13,9 @@ Which movie genre makes the most money?
 
 **Visualization**
 
-![alt text](https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/distribution.png)
+<p align = "center">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/distribution.png" alt="alt text">
+</p>
 
 ## Project 2 - Querying and Structuring Data from the Twitter API
 **Question**
@@ -22,7 +24,9 @@ What do people think about Taylor Swift’s latest album ‘Lover’?
 
 **Visualization**
 
-![alt text](https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.png)
+<p align = "center">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.png" alt="alt text">
+</p>
 
 ## Project 3 - Visual Narrative of Personal Mobile Data Set
 **Question**
@@ -31,4 +35,6 @@ Which mobile apps I use most frequently over the past two weeks? Was the trend c
 
 **Visualization**
 
-![alt text](https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/instagram.png)
+<p align = "center">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/instagram.png" alt="alt text">
+</p>
