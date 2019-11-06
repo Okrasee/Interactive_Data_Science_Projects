@@ -28,6 +28,18 @@ What do people think about Taylor Swift’s latest album ‘Lover’?
 <img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.png" alt="alt text">
 </p>
 
+Use sentiment analysis by Vader to find out the percentages of positive, neutral, positive tweets
+
+```
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
+sentiment = SentimentIntensityAnalyzer()
+
+score = sentiment.polarity_scores(text)
+
+lb = score['compound']
+```
+
 ## Project 3 - Visual Narrative of Personal Mobile Data Set
 **Question**
 
@@ -38,3 +50,9 @@ Which mobile apps I use most frequently over the past two weeks? Was the trend c
 <p align = "center">
 <img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/instagram.png" alt="alt text">
 </p>
+
+Use `plotly` library to create dropdown menu
+```
+import plotly.graph_objects as go
+fig = go.Figure()
+```
