@@ -4,7 +4,7 @@
 The projects more or less follow these steps:
 1. Propose a question;
 2. Clean, modify raw data;
-3. Create exploray analysis including data visualization to answer the question.
+3. Create exploratory analysis including data visualization to answer the question.
 
 ## Project 1 - Cleaning, Exploring, and Answering Questions with Data
 **Question**
