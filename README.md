@@ -17,7 +17,7 @@ Which movie genre makes the most money?
 <img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/distribution.png" alt="alt text">
 </p>
 
-Use `pandas`, `matplotlin`, `operator` packages
+Use `pandas`, `matplotlib`, `operator` packages
 
 ## Project 2 - Querying and Structuring Data from the Twitter API
 **Question**
