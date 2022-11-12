@@ -28,7 +28,7 @@ What do people think about Taylor Swift’s latest album ‘Lover’?
 
 
 <p align = "center">
-<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.jpeg" alt="alt text" width="450">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.jpeg" alt="alt text" width="500">
 </p>
 
 
