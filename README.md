@@ -26,9 +26,11 @@ What do people think about Taylor Swift’s latest album ‘Lover’?
 
 **Visualization**
 
+
 <p align = "center">
-<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.jpeg" alt="alt text">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.jpeg" alt="alt text" width="500>
 </p>
+
 
 Use sentiment analysis by Vader to find out the percentages of positive, neutral, positive tweets
 
@@ -50,7 +52,7 @@ Which mobile apps I use most frequently over the past two weeks? Was the trend c
 **Visualization**
 
 <p align = "center">
-<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/instagram.jpeg" alt="alt text">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/instragram.jpeg" alt="alt text">
 </p>
 
 Use `plotly` library to create dropdown menu
