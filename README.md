@@ -14,7 +14,7 @@ Which movie genre makes the most money?
 **Visualization**
 
 <p align = "center">
-<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/distribution.png" alt="alt text">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/distribution.jpeg" alt="alt text">
 </p>
 
 Use `pandas`, `matplotlib`, `operator` packages
@@ -27,7 +27,7 @@ What do people think about Taylor Swift’s latest album ‘Lover’?
 **Visualization**
 
 <p align = "center">
-<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.png" alt="alt text">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/pie_chart.jpeg" alt="alt text">
 </p>
 
 Use sentiment analysis by Vader to find out the percentages of positive, neutral, positive tweets
@@ -50,7 +50,7 @@ Which mobile apps I use most frequently over the past two weeks? Was the trend c
 **Visualization**
 
 <p align = "center">
-<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/instagram.png" alt="alt text">
+<img src="https://github.com/Okrasee/Interactive_Data_Science_Projects/blob/master/instagram.jpeg" alt="alt text">
 </p>
 
 Use `plotly` library to create dropdown menu
